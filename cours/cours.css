@@ -1,3 +1,17 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+body {
+    background: #f8fafc;
+    color: #222;
+    font-size: 1.05rem;
+}
+h1 {
+    color: #1a237e;
+    font-size: 1.18rem;
+    margin-bottom: 0.7rem;
+    margin-top: 0.2rem;
+}
 .blog-header {
     display: flex;
     align-items: center;
