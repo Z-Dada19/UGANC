@@ -1,3 +1,26 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+body {
+    background: #f8fafc;
+    color: #222;
+    font-size: 1.05rem;
+}
+h1 {
+    color: #1a237e;
+    font-size: 1.18rem;
+    margin-bottom: 0.7rem;
+    margin-top: 0.2rem;
+}
+.box{
+    width: 220px;
+    margin: 35px auto 30px auto;
+    position: relative;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    animation: animBTN 5s linear infinite;
+}
 .blog-header {
     display: flex;
     align-items: center;
